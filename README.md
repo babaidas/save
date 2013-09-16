@@ -3,10 +3,10 @@ SAVE
 
 A simple app build for learning purpose.
 
-*Authors*
+**Authors**
 
 Binayak Ghosh, Arijit Das, Subrata Maity
 
-*Usage*
+**Usage**
 
 To be defined yet.
